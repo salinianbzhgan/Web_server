@@ -53,6 +53,8 @@ httpd.server_forever()
 ```
 # OUTPUT:
 
+![webserver1](https://github.com/salinianbzhgan/Web_server/assets/145742862/b31d82cd-6040-4fa5-8ce7-bc205df263d7)
+
 # RESULT:
 
 The program is executed succesfully
